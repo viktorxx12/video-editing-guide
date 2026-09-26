@@ -14,9 +14,10 @@ Some important parts of video editing are:
 
 ## 📚 What I learned
 
-I learned how to create a GitHub repository, edit a README file and save changes with commits.
+I learned how to create a GitHub repository, edit a README file, use Markdown and save changes with commits.
 
 ## 😄 Fun fact
 
 A short video can take much longer to edit than to record because every cut, transition and effect needs to be adjusted.
 
+> 🎬 Turning ideas into videos
