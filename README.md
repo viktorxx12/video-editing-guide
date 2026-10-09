@@ -1,5 +1,7 @@
 # 🎬 Video Editing Guide
 
+![Status](https://img.shields.io/badge/status-v%20izdelavi-yellow) ![Topic](https://img.shields.io/badge/topic-video%20editing-purple) ![Platform](https://img.shields.io/badge/platform-GitHub-black)
+
 ## 📌 About the project
 
 This is my first GitHub project about video editing. In this project I will collect useful ideas and information about editing videos.
